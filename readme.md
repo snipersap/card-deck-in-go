@@ -17,8 +17,8 @@ Run the tests with
 In case of confusion, check the commits. 
 
 ## Expected output
-> Last updated 11.09.2023
-The hand dealt in the deal:  
+Last updated 11.09.2023  
+>The hand dealt in the deal:  
 0 > Ace of Hearts  
 1 > Two of Hearts  
 2 > Three of Hearts  
