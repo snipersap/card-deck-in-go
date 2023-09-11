@@ -9,6 +9,11 @@ Run the files `main.go` and `deck.go` using the command
 Run the tests with 
 `go test`
 
+### Test Result:
+>ReadFile Error: <nil>  
+>PASS  
+>ok      card-deck-in-go 1.502s
+
 In case of confusion, check the commits. 
 
 ## Expected output
